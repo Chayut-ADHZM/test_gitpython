@@ -1,3 +1,3 @@
 import sys
 
-print("Hello4")
+print("Hello v0.0.2")
